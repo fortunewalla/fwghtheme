@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="fwghtheme : fortuneWalla Theme - Modified from GitHub Slate Theme">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>fwghtheme</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/fortunewalla/fwghtheme">View on GitHub</a>
+
+          <h1 id="project_title">fwghtheme</h1>
+          <h2 id="project_tagline">fortuneWalla Theme - Modified from GitHub Slate Theme</h2>
+
+            <section id="downloads">
+             <!-- <a class="tar_download_link" href="https://github.com/fortunewalla/fwghtheme/tarball/master">Download this project as a tar.gz file</a> -->
+              <a class="zip_download_link" href="https://github.com/fortunewalla/fwghtheme/archive/gh-pages.zip">Download this project as a .zip file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+<a id="fwghtheme" class="anchor" href="#fwghtheme" aria-hidden="true"><span class="octicon octicon-link"></span></a>fwghtheme</h3>
+
+<p>fortuneWalla Theme @ GitHub - Modified from GitHub Slate Theme</p>
+
+<p>A responsive theme for GitHub Pages. This theme is modified from <a href="https://github.com/jasoncostello/slate">Jason Costello's Slate Theme</a>. Please feel free to download or fork it for your own use. Thanks!</p>
+
+<h3>A simple, legible layout.</h3>
+<p>fwghtheme is a simple theme that was created for the <a href="http://pages.github.com">GitHub Pages automatic generator</a>. It's a basic one-column layout that's primarily designed for code documentation it'd also work well for a personal site (just delete the download section). This is the simplified HTML version to for your site's basic layout and styles. Clone these files and replace this content to get the ball rolling.</p>
+
+<p>fwghtheme is available under ther Creative Commons Attribution 3.0 License. Basically, use it, modify it, and remix it. Attribution is not necessary but it is appreciated.</p>
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">fwghtheme maintained by <a href="https://github.com/fortunewalla">fortunewalla</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+<p>(c) fortuneWalla 2013-2014</p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
+
